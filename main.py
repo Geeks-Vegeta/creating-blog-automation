@@ -61,5 +61,3 @@ def blogs_scrapping(event):
 
     except Exception as e: 
         print(e)
-
-blogs_scrapping()
